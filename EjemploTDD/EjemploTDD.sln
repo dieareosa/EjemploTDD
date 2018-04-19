@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploTDD", "EjemploTDD\EjemploTDD.csproj", "{3DB39A1D-3493-48F8-89A5-796FFCC2DF0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCalculadoraStringTest", "TestCalculadoraStringTest\TestCalculadoraStringTest.csproj", "{FFF0B181-4155-42F3-8897-E8D57C6D5327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCalculadoraString", "TestCalculadoraString\TestCalculadoraString.csproj", "{2725AA7D-0D0E-4971-A99E-55F1A014712F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3DB39A1D-3493-48F8-89A5-796FFCC2DF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3DB39A1D-3493-48F8-89A5-796FFCC2DF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3DB39A1D-3493-48F8-89A5-796FFCC2DF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3DB39A1D-3493-48F8-89A5-796FFCC2DF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF0B181-4155-42F3-8897-E8D57C6D5327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF0B181-4155-42F3-8897-E8D57C6D5327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF0B181-4155-42F3-8897-E8D57C6D5327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF0B181-4155-42F3-8897-E8D57C6D5327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2725AA7D-0D0E-4971-A99E-55F1A014712F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2725AA7D-0D0E-4971-A99E-55F1A014712F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2725AA7D-0D0E-4971-A99E-55F1A014712F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2725AA7D-0D0E-4971-A99E-55F1A014712F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
